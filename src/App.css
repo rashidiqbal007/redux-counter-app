@@ -1,5 +1,34 @@
+body{
+  background-color: saddlebrown;
+  text-align: center;
+  
+}
+.quantity{
+  margin-top: 200px;
+}
+.quantity-minus{
+  cursor: pointer;
+  color: aliceblue;
+}
+.quantity-plus{
+  cursor: pointer;
+  color: aliceblue;
+}
+
+h4{
+  color: beige;
+}
+h1{
+  color: cornsilk;
+}
+.inputfield{
+  width: 2%;
+  border-color: blue;
+  border-radius: 5px;
+}
 .App {
   text-align: center;
+  font-style: italic;
 }
 
 .App-logo {
